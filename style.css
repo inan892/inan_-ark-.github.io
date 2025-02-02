@@ -1,0 +1,40 @@
+button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.1s ease-in-out;
+  }
+  
+  button:active {
+    transform: scale(0.95); 
+  }
+          h1{
+              color:rgb(219, 219, 147)
+          }
+          h1{
+              text-shadow: 3px 3px 5px black;
+          }
+          button{
+              color:black
+          }
+          button{
+              background-color: rgb(219, 219, 147) !important;
+          }
+          #button1{
+              background-color: grey !important;
+              color:grey
+          }
+          body{
+              text-align: center
+          }
+          button{
+              text-shadow: 3px 3px 5px grey;
+          }
+          button{
+              font-size: 30px;
+              padding: 15px 15px; 
+              border-radius: 10px;
+          }
